@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDavidBASSXD%2Fdiscord.py.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FDavidBASSXD%2Fdiscord.py?ref=badge_shield)
+
 discord.py
 ==========
 
@@ -112,3 +114,7 @@ Links
 - `Documentation <https://discordpy.readthedocs.io/en/latest/index.html>`_
 - `Official Discord Server <https://discord.gg/r3sSKJJ>`_
 - `Discord API <https://discord.gg/discord-api>`_
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDavidBASSXD%2Fdiscord.py.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDavidBASSXD%2Fdiscord.py?ref=badge_large)
